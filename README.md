@@ -16,10 +16,12 @@ This project visualizes YouTube channel data using **Plotly**, a powerful Python
 ---
 
 ### 📂 Project Structure
+'''
 Youtube_data_visualization/
 ├── youtube_data.py 
 ├── most_subscribed_youtube_channels.csv 
 └── README.md 
+'''
 ---
 
 ### 📈 Features and Visuals
